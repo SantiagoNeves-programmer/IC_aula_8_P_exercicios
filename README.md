@@ -1,6 +1,6 @@
 # Introdução à Computação - Aula 8 (P)
 ### Git: Branches, Rebase e LFS
-
+Alterações feitas!!!!!!!!!!!!!!
 **Objetivo:**  
 Aplicar os conhecimentos de Git aprendidos até agora, explorando o uso de **branches**, **rebase** e **Git LFS** num repositório individual.
 
