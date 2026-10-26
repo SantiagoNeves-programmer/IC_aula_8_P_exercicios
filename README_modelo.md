@@ -10,7 +10,7 @@
 ---
 
 ## Alterações realizadas
-o lfs, sõ proccura os ficheiros com extensão png e a large imagem passar a ser um ponteiro lfs.
+o lfs, só procur os ficheiros com extensão png e a large imagem passar a ser um ponteiro lfs.
 (Descreve brevemente as alterações feitas neste repositório.)
 
 ---
