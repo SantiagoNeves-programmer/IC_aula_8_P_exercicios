@@ -3,7 +3,7 @@
 Alterações feitas!!!!!!!!!!!!!!
 **Objetivo:**  
 Aplicar os conhecimentos de Git aprendidos até agora, explorando o uso de **branches**, **rebase** e **Git LFS** num repositório individual.
-
+Pequena Alteração!!!!!!!!!!!!!!!!
 ---
 
 ## Fazer Clone do Repositório
