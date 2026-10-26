@@ -1,13 +1,16 @@
 # Dados do Aluno
 
 - **Nome:**  
+    Santiago Neves
 - **Número:**  
-- **Turma:**  
+    a22603593
+- **Turma:** 
+    Turno 2 Videojogos 1º ano
 
 ---
 
 ## Alterações realizadas
-
+o lfs, sõ proccura os ficheiros com extensão png e a large imagem passar a ser um ponteiro lfs.
 (Descreve brevemente as alterações feitas neste repositório.)
 
 ---
